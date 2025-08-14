@@ -59,4 +59,4 @@ Seu objetivo é decifrar um código ancestral perdido há séculos, capaz de red
 
 🌐 Acesse o Projeto
 
-🔗 Clique aqui para visualizar
+🔗 click aqui: https://joaopedros-s.github.io/Projeto-DBZ/
