@@ -19,13 +19,13 @@ Organização em cards interativos com imagens e descrições
 
 ## 🧰 Tecnologias Utilizadas
 
-HTML5 – Estrutura das páginas
+**HTML5 –** Estrutura das páginas
 
-CSS3 – Estilização visual e responsividade
+**CSS3 –** Estilização visual e responsividade
 
-JavaScript – Funcionalidades dinâmicas e interatividade (caso aplicável)
+**JavaScript –** Funcionalidades dinâmicas e interatividade (caso aplicável)
 
-GitHub Pages – Publicação online do projeto
+**GitHub Pages –** Publicação online do projeto
 
 ---
 
